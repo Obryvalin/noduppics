@@ -1,0 +1,2 @@
+# noduppics
+Picture deduplication
